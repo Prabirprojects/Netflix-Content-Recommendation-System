@@ -24,6 +24,14 @@ Genre is part of the features, so this check is partly circular. It confirms the
 
 ![Precision vs random](images/precision_vs_random.png)
 
+## Screenshots
+
+Screenshots of the executed notebook (features, recommendations and evaluation):
+
+![Notebook part 1](screenshots/notebook_part1.png)
+![Notebook part 2](screenshots/notebook_part2.png)
+![Notebook part 3](screenshots/notebook_part3.png)
+
 ## Run it
 
 ```bash
@@ -36,6 +44,7 @@ jupyter notebook netflix_recommender.ipynb
 - `netflix_recommender.ipynb` - full workflow with outputs
 - `data/netflix_titles.csv` - dataset (8,790 rows, 10 columns)
 - `images/` - evaluation chart
+- `screenshots/` - screenshots of the executed notebook
 
 ## Skills used
 
